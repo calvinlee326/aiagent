@@ -1,0 +1,52 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+.eggs/
+*.egg
+pip-wheel-metadata/
+dist/
+build/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+.python-version
+
+# Environment files
+.env
+.env.*
+.envrc
+
+# Testing & coverage
+.pytest_cache/
+.mypy_cache/
+.pyre/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_convert
+
+# Logs
+*.log
+logs/
+
+# macOS
+.DS_Store
+
+# Editors/IDEs
+.vscode/
+.idea/
+.cursor/
+
+
